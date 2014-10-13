@@ -1,4 +1,7 @@
 hello-world
 ===========
 
-Just another repository
+Just a repository
+
+Hello, I'm Dixon Gunasekara.
+ShipXpress
